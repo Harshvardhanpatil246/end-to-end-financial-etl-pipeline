@@ -1,0 +1,29 @@
+{
+    "symbol": "IBM",
+    "name": "International Business Machines Corporation",
+    "exchange": "NYSE",
+    "mic_code": "XNYS",
+    "currency": "USD",
+    "datetime": "2026-06-05",
+    "timestamp": 1780666200,
+    "last_quote_at": 1780689540,
+    "open": "300",
+    "high": "302.29999",
+    "low": "281.070007",
+    "close": "284.84000",
+    "volume": "12477700",
+    "previous_close": "301.76999",
+    "change": "-16.92999",
+    "percent_change": "-5.61023",
+    "average_volume": "16462170",
+    "is_market_open": false,
+    "fifty_two_week": {
+        "low": "212.34000",
+        "high": "332.45999",
+        "low_change": "72.5",
+        "high_change": "-47.62000",
+        "low_change_percent": "34.14336",
+        "high_change_percent": "-14.32353",
+        "range": "212.339996 - 332.459991"
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "symbol": "GOOGL",
+    "name": "Alphabet Inc.",
+    "exchange": "NASDAQ",
+    "mic_code": "XNGS",
+    "currency": "USD",
+    "datetime": "2026-06-05",
+    "timestamp": 1780666200,
+    "last_quote_at": 1780689540,
+    "open": "366.34000",
+    "high": "372.079987",
+    "low": "364.12000",
+    "close": "368.53000",
+    "volume": "37375600",
+    "previous_close": "372.19000",
+    "change": "-3.66000",
+    "percent_change": "-0.98336969",
+    "average_volume": "35600720",
+    "is_market_open": false,
+    "fifty_two_week": {
+        "low": "162",
+        "high": "408.60999",
+        "low_change": "206.53000",
+        "high_change": "-40.079987",
+        "low_change_percent": "127.48765",
+        "high_change_percent": "-9.80886",
+        "range": "162.000000 - 408.609985"
+    }
+}

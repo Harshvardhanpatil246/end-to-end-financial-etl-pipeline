@@ -1,0 +1,29 @@
+{
+    "symbol": "AMZN",
+    "name": "Amazon.com, Inc.",
+    "exchange": "NASDAQ",
+    "mic_code": "XNGS",
+    "currency": "USD",
+    "datetime": "2026-06-05",
+    "timestamp": 1780666200,
+    "last_quote_at": 1780689540,
+    "open": "254.25999",
+    "high": "256.38000",
+    "low": "245.78000",
+    "close": "246.029999",
+    "volume": "55498100",
+    "previous_close": "253.78999",
+    "change": "-7.75999",
+    "percent_change": "-3.057644",
+    "average_volume": "43892300",
+    "is_market_open": false,
+    "fifty_two_week": {
+        "low": "196",
+        "high": "278.56000",
+        "low_change": "50.029999",
+        "high_change": "-32.53000",
+        "low_change_percent": "25.52551",
+        "high_change_percent": "-11.67791",
+        "range": "196.000000 - 278.559998"
+    }
+}

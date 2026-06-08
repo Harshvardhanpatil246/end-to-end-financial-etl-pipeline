@@ -1,0 +1,29 @@
+{
+    "symbol": "MSFT",
+    "name": "Microsoft Corp.",
+    "exchange": "NASDAQ",
+    "mic_code": "XNGS",
+    "currency": "USD",
+    "datetime": "2026-06-05",
+    "timestamp": 1780666200,
+    "last_quote_at": 1780689540,
+    "open": "428.34000",
+    "high": "429.47000",
+    "low": "414.39999",
+    "close": "416.67001",
+    "volume": "34641500",
+    "previous_close": "428.049988",
+    "change": "-11.37997",
+    "percent_change": "-2.65856",
+    "average_volume": "39983840",
+    "is_market_open": false,
+    "fifty_two_week": {
+        "low": "356.28000",
+        "high": "555.45001",
+        "low_change": "60.39001",
+        "high_change": "-138.78000",
+        "low_change_percent": "16.95016",
+        "high_change_percent": "-24.98515",
+        "range": "356.279999 - 555.450012"
+    }
+}

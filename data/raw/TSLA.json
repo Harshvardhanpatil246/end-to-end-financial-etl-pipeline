@@ -1,0 +1,29 @@
+{
+    "symbol": "TSLA",
+    "name": "Tesla, Inc.",
+    "exchange": "NASDAQ",
+    "mic_code": "XNGS",
+    "currency": "USD",
+    "datetime": "2026-06-05",
+    "timestamp": 1780666200,
+    "last_quote_at": 1780689540,
+    "open": "420.5",
+    "high": "424.67999",
+    "low": "388.59000",
+    "close": "391",
+    "volume": "63128800",
+    "previous_close": "418.45001",
+    "change": "-27.45001",
+    "percent_change": "-6.55993",
+    "average_volume": "43951860",
+    "is_market_open": false,
+    "fifty_two_week": {
+        "low": "273.20999",
+        "high": "498.82999",
+        "low_change": "117.79001",
+        "high_change": "-107.82999",
+        "low_change_percent": "43.11336",
+        "high_change_percent": "-21.61658",
+        "range": "273.209991 - 498.829987"
+    }
+}
