@@ -55,33 +55,25 @@ The primary objectives of this project are:
 ## Project Structure
 
 financial_etl_project/
-
+│
 ├── data/
-
 │   └── raw_json_files/
-
+│
+│── screenshots
+│
 ├── logs/
-
 │   └── pipeline.log
-
+│
 ├── src/
-
 │   ├── main.py
-
 │   ├── extract.py
-
 │   ├── transform.py
-
 │   ├── load.py
-
 │   ├── config.py
-
 │   ├── logging_config.py
-
 │   └── .env
-
+│
 ├── run_etl.bat
-
 └── README.md
 
 ---
